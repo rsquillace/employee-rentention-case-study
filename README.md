@@ -1,1 +1,1 @@
-# employee-rentention-case-study
+# employee-retention-case-study
